@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
+    "@types/react-anchor-link-smooth-scroll": "^1.0.5",
     "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
     "eslint": "^8.57.0",
