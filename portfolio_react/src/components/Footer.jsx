@@ -23,7 +23,7 @@ const Footer = () => {
       <hr />
       <div className="footer-bottom">
         <p className="footer-bottom-left">
-          ⓒ 2023 Chirag S Kotian.All rights reserved.
+          ⓒ 2024 Chirag S Kotian.All rights reserved.
         </p>
         <div className="footer-bottom-right">
           <p>Term of Services</p>
