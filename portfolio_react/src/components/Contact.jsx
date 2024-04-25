@@ -54,6 +54,26 @@ const Contact = () => {
               <p>Udupi,karnataka-INDIA</p>
             </div>
           </div>
+          <div className="social-icons">
+            <a
+              href="https://www.linkedin.com/in/Chirag-S-Kotian"
+              target="_blank"
+            >
+              <i className="fab fa-linkedin"></i>
+            </a>
+            <a
+              href="https://www.instagram.com/_chirag_S_kotian"
+              target="_blank"
+            >
+              <i className="fab fa-instagram-square"></i>
+            </a>
+            <a href="https://github.com/Chirag-S-Kotian" target="_blank">
+              <i className="fab fa-github-square"></i>
+            </a>
+            <a href="https://twitter.com/Chirag_S_kotian" target="_blank">
+              <i className="fab fa-twitter-square"></i>
+            </a>
+          </div>
         </div>
         <form onSubmit={onSubmit} className="contact-right">
           <label htmlFor="">Your Name</label>

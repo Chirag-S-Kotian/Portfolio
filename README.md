@@ -1,7 +1,7 @@
 **Title:**
 
 ```markdown
-#  My Portfolio Website
+# My Portfolio Website
 
 A dynamic and interactive showcase of my skills and experience.
 ```
@@ -9,14 +9,14 @@ A dynamic and interactive showcase of my skills and experience.
 **Introduction:**
 
 ```markdown
-Hi there!  I'm [Your Name], a passionate [Your Profession] with a strong interest in [Your Areas of Expertise]. This portfolio website serves as a platform to highlight my work and showcase my capabilities.
+Hi there! I'm [Your Name], a passionate [Your Profession] with a strong interest in [Your Areas of Expertise]. This portfolio website serves as a platform to highlight my work and showcase my capabilities.
 
 I built this website using:
 
-* **React:** A powerful JavaScript library for building user interfaces.
-* **Vite + React:** A lightning-fast development environment for React projects.
-* **react-anchor-link-smooth-scroll:** Enables seamless and visually appealing smooth scrolling between sections.
-* **CSS:** Cascading Style Sheets for styling and visual design.
+- **React:** A powerful JavaScript library for building user interfaces.
+- **Vite + React:** A lightning-fast development environment for React projects.
+- **react-anchor-link-smooth-scroll:** Enables seamless and visually appealing smooth scrolling between sections.
+- **CSS:** Cascading Style Sheets for styling and visual design.
 
 This repository also includes some visual assets that enhance the user experience.
 ```
@@ -26,22 +26,23 @@ This repository also includes some visual assets that enhance the user experienc
 ```markdown
 This portfolio boasts several features to effectively present your skills:
 
-* **Responsive Design:** Adapts seamlessly to various screen sizes, ensuring optimal viewing across devices.
-* **Clean and Modern UI:** Designed with aesthetics and user-friendliness in mind.
-* **Smooth Scrolling:** Provides a smooth and engaging browsing experience.
-* **Project Showcase:** Dedicated sections to meticulously display your projects with clear descriptions, images, or demos (if applicable).
-* **Contact Information:** Makes it easy for potential employers or collaborators to reach you.
-* **Customizable:** Feel free to tailor the layout, colors, and content to match your personal brand.
+- **Responsive Design:** Adapts seamlessly to various screen sizes, ensuring optimal viewing across devices.
+- **Clean and Modern UI:** Designed with aesthetics and user-friendliness in mind.
+- **Smooth Scrolling:** Provides a smooth and engaging browsing experience.
+- **Project Showcase:** Dedicated sections to meticulously display your projects with clear descriptions, images, or demos (if applicable).
+- **Contact Information:** Makes it easy for potential employers or collaborators to reach you.
+- **Customizable:** Feel free to tailor the layout, colors, and content to match your personal brand.
 ```
 
 **Installation:**
 
-```markdown
+````markdown
 1. Clone this repository:
 
    ```bash
    git clone [https://github.com/](https://github.com/)[Chirag-S-Kotian]/Portfolio.git
    ```
+````
 
 2. Navigate to the project directory:
 
@@ -76,9 +77,9 @@ If you'd like to deploy this project to a production server, you can use service
 ```markdown
 Feel free to fork this repository and make your own contributions! Here are some ways you could get involved:
 
-* Suggest improvements to the layout or functionality.
-* Report any bugs you encounter.
-* Share your ideas for enhancing the user experience.
+- Suggest improvements to the layout or functionality.
+- Report any bugs you encounter.
+- Share your ideas for enhancing the user experience.
 
 Please create a pull request to submit your contributions.
 ```

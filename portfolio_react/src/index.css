@@ -506,6 +506,14 @@ body {
   transition: 0.3s;
 }
 
+.mywork-container p {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  font-weight: 600;
+}
+
 .mywork-showmore {
   display: flex;
   gap: 15px;
@@ -681,6 +689,23 @@ body {
   transition: 0.3s;
 }
 
+.social-icons {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 80px;
+}
+
+.social-icons a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  filter: brightness(60%);
+  transform: scale(1.3);
+  transition: 0.5s;
+}
+
 @media(max-width:768px) {
   .contact {
     gap: 50px;
@@ -812,15 +837,18 @@ body {
   transform: scale(1.1);
   transition: 0.3s;
 }
-@media(max-width:768px){
-  .footer{
+
+@media(max-width:768px) {
+  .footer {
     margin: 50px 70px;
   }
-  .footer-top{
+
+  .footer-top {
     flex-direction: column;
     gap: 50px;
   }
-  .footer-bottom{
+
+  .footer-bottom {
     display: flex;
     flex-direction: column-reverse;
     margin-bottom: 50px;
