@@ -9,32 +9,38 @@ const mywork_data = [
     {
         w_no:1,
         w_name:"The Baratie",
-        w_img:project1_img
+        w_img:project1_img,
+        w_repo:"https://github.com/Chirag-S-Kotian/Baratie.git",
     },
     {
         w_no:2,
-        w_name:"News-Fire!",
-        w_img:project2_img
+        w_name:"News-Fire!-Reactjs",
+        w_img:project2_img,
+        w_repo:"https://github.com/Chirag-S-Kotian/News-Fire-.git",
     },
     {
         w_no:3,
         w_name:"Elbaf-food delivery website",
-        w_img:project3_img
+        w_img:project3_img,
+        w_repo:"https://github.com/Chirag-S-Kotian/food-store-app.git",
     },
     {
         w_no:4,
         w_name:"MERN-Blog",
-        w_img:project4_img
+        w_img:project4_img,
+        w_repo:"https://github.com/Chirag-S-Kotian/full-stack-mern-blog.git",
     },
     {
         w_no:5,
         w_name:"Flex-chat",
-        w_img:project5_img
+        w_img:project5_img,
+        w_repo:"https://github.com/Chirag-S-Kotian/flex-chat.git",
     },
     {
         w_no:6,
-        w_name:"Currency-Converter",
-        w_img:project6_img
+        w_name:"Youtube-backend",
+        w_img:project6_img,
+        w_repo:"https://github.com/Chirag-S-Kotian/youtube-backend.git",
     },
 ]
  

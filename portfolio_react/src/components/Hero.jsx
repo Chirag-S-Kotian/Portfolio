@@ -1,10 +1,10 @@
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import profile_img from "../assets/profile_img.svg";
+import profile from "../assets/Profile.jpeg";
 
 const Hero = () => {
   return (
     <div id="home" className="hero">
-      <img src={profile_img} alt="" />
+      <img src={profile} alt="" />
       <h1>
         <span>I'm Chirag S Kotian,</span> Full Stack Developer(MERN) based in
         INDIA.{" "}

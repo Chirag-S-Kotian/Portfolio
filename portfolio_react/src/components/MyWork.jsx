@@ -13,12 +13,19 @@ const MyWork = () => {
         {mywork_data.map((work, index) => {
           return (
             <div key={index} className="work-item">
-              <img src={work.w_img} alt="" />
+              <a
+                href={work.w_repo}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img src={work.w_img} alt="" />
+              </a>
               <p>{work.w_name}</p>
             </div>
           );
         })}
       </div>
+
       <div className="mywork-showmore">
         <p>Show More</p>
         <img src={arrow_icon} alt="" />

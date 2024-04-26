@@ -1,5 +1,5 @@
 import theme_pattern from "../assets/theme_pattern.svg";
-import about_profile from "../assets/about_profile.svg";
+import profile from "../assets/Profile.jpeg";
 
 const About = () => {
   return (
@@ -10,7 +10,7 @@ const About = () => {
       </div>
       <div className="about-sections">
         <div className="about-left">
-          <img src={about_profile} alt="profile image" />
+          <img src={profile} alt="profile image" />
         </div>
         <div className="about-right">
           <div className="about-para">
