@@ -444,8 +444,9 @@ body {
   }
 
   .services-format {
-    gap: 15px;
+    gap: 10px;
     padding: 10px;
+    margin: -7px;
   }
 
   .services-format h2 {
@@ -708,7 +709,7 @@ body {
   display: flex;
   justify-content: space-between;
   font-size: 80px;
-  gap: 50px;
+  gap: 35px;
 }
 
 .social-icons a {
@@ -783,7 +784,7 @@ body {
     padding: 15px 40px;
   }
   .social-icons{
-    font-size: 45px;
+    font-size: 35px;
   }
 }
 
